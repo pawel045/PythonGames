@@ -1,4 +1,4 @@
-# Blackjack in cmd
+# Card game, blackjack in cmd
 
 import os
 from time import sleep
