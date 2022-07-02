@@ -1,3 +1,5 @@
+# Fun betting game with cool animation
+
 from turtle import Turtle, Screen
 from random import shuffle, randint
 
